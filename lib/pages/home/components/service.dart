@@ -83,12 +83,12 @@ class ServiceSection extends StatelessWidget {
               GestureDetector(
                 onTap: () {
                   Utilty.openUrl(
-                      "https://github.com/AgnelSelvan/AgnelSelvan.github.io/raw/main/assets/files/Agnel-Selvan.pdf");
+                      "https://github.com/Amodh2022/myFile.io/blob/main/Amodh's--Resume%20(2).pdf");
                 },
                 child: MouseRegion(
                   cursor: SystemMouseCursors.click,
                   child: Text(
-                    "DOWNLOAD CV",
+                    "View CV",
                     style: GoogleFonts.josefinSans(
                       color: kPrimaryColor,
                       fontWeight: FontWeight.w900,
